@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374456759399",
+    "project_id": "notificationexample137",
+    "storage_bucket": "notificationexample137.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374456759399:android:d8bb998f410fbc691d90c2",
+        "android_client_info": {
+          "package_name": "gov.rajasthan.notificationexample137"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVDWtab_6BlM87nE4LkdhvhxKDnk2pmC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
